@@ -7,7 +7,7 @@ public class ConfigurationReader {
     // THIS CLASS WILL ONLY USED FOR  getting the data from
     //    configuration.properties file
     private static Properties properties;  // we made private hiding data of the ConfigurationReader used Encpsulation.
-                                           // and maded it static (to reach it with in that class) to reach that datas we use getter
+                                           // and made it static (to reach it with in that class) to reach that datas we use getter
                                            // as  public static String getProperty
     static {
 //        path of the config file
